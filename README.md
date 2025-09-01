@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me :- email me @ prashantm.mca@nitp.ac.in linkedin :- www.linkedin.com/in/prashant-mishra-nitp
-- ⚡ Fun fact: I am a first year student of Mca(Ai & Iot) at NIT Patna Bihar India
+- ⚡ Fun fact: I am a second year student of Mca(Ai & Iot) at NIT Patna Bihar India
 
 <!---
 prashant-mishra-22/prashant-mishra-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
