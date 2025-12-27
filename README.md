@@ -24,6 +24,11 @@ class Developer:
             "B.Sc (Hons) CS": "University of Delhi | CGPA: 8.03 | 2024"
         }
         self.interests = ["AI/ML", "LLMs", "Full-Stack Dev", "Game AI"]
+        self.rankings = {
+            "NIMCET 2024": "AIR 540",
+            "GATE DA 2024": "AIR 2635",
+            "GATE CS 2024": "AIR 6610"
+        }
     
     def greet(self):
         return "Building intelligent systems!"
