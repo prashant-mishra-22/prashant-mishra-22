@@ -1,12 +1,3 @@
-<div align="center">
-  
-⭐ *"Code is like humor. When you have to explain it, it's bad."* ⭐  
-**Let's build something amazing together!**
-
-</div> 
-
-
-
 ### MCA (AI & IoT) @ NIT Patna | AI/ML Enthusiast | Full-Stack Developer  
 
 <div align="center">
