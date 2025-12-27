@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ## 🚀 About Me
 ```python
@@ -31,7 +31,7 @@ class Developer:
 ```
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ## 🔥 Tech Stack
 **Programming**<br>
@@ -53,7 +53,7 @@ class Developer:
 </td>
 
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **Motto**<br>
 ⭐ *"Code is like humor. If you have to explain it, it's bad."* ⭐  
@@ -63,7 +63,7 @@ class Developer:
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ## 🏆 Featured Projects
 **🤖 AI Agent for Game Playing**  
@@ -79,7 +79,7 @@ class Developer:
 *Python, Ollama | Secure messaging*
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ## 📊 Experience
 <div align="center">
@@ -91,7 +91,7 @@ class Developer:
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 
 ## 📫 Connect With Me
