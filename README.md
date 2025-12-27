@@ -56,9 +56,6 @@ class Developer:
 **🤖 AI Agent for Game Playing**  
 *CNN + Deep Q-Learning | 85% win rate*
 
-**🏥 Lung Disease Classification**  
-*ML System | 92.75% accuracy*
-
 **🌪️ Disaster Resource Management**  
 *Java, MySQL | 50+ concurrent camps*
 
