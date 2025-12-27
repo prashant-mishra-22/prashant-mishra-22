@@ -1,8 +1,7 @@
 ### MCA (AI & IoT) @ NIT Patna | AI/ML Enthusiast | Full-Stack Developer  
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/gh/views/prashant-mishra-22?color=blue&style=flat-square)
+
 ![GitHub Followers](https://img.shields.io/github/followers/prashant-mishra-22?style=social)
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen)
 
@@ -91,4 +90,9 @@ class Developer:
 </div>
 
 ---
+<div align="center">
+  
+⭐ *"Code is like humor. When you have to explain it, it's bad."* ⭐  
+**Let's build something amazing together!**
 
+</div> 
