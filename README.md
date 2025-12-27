@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🚀 About Me
 ```python
@@ -31,7 +31,7 @@ class Developer:
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🔥 Tech Stack
 **Programming**<br>
@@ -51,10 +51,19 @@ class Developer:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </td>
+
+
+<td width="33%" valign="top">
+
+**Motto**<br>
+⭐ *"Code is like humor. If you have to explain it, it's bad."* ⭐  
+**Let's build something amazing together!**
+
+</td>
 </tr>
 
 <tr>
-<td width="30%" valign="top">
+<td width="33%" valign="top">
 
 ## 🏆 Featured Projects
 **🤖 AI Agent for Game Playing**  
@@ -70,7 +79,7 @@ class Developer:
 *Python, Ollama | Secure messaging*
 
 </td>
-<td width="20%" valign="top">
+<td width="33%" valign="top">
 
 ## 📊 Experience
 <div align="center">
@@ -82,9 +91,8 @@ class Developer:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<div align="center">
 
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-prashantm.mca24@nitp.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantm.mca24@nitp.ac.in)
@@ -92,7 +100,6 @@ class Developer:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashant-mishra-22)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prashant-mishra-22/)
 
-</div>
 
 </td>
 
@@ -104,9 +111,4 @@ class Developer:
 
 
 
-<div align="center">
-  
-⭐ *"Code is like humor. If you have to explain it, it's bad."* ⭐  
-**Let's build something amazing together!**
 
-</div>
