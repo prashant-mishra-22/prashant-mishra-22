@@ -7,21 +7,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-## 📊 Quick Stats
-| **Metric** | **Value** |
-|------------|-----------|
-| **MCA CGPA** | 9.5/10 |
-| **B.Sc CGPA** | 8.03/10 |
-| **NIMCET 2024** | AIR 540 |
-| **GATE DA 2024** | AIR 2635 |
-
-</div>
-
----
 
 <div align="center">
 
@@ -68,7 +54,7 @@ class Developer:
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ## 🏆 Featured Projects
 **🤖 AI Agent for Game Playing**  
@@ -84,24 +70,19 @@ class Developer:
 *Python, Ollama | Secure messaging*
 
 </td>
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
-## 📊 GitHub & Experience
+## 📊 Experience
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-mishra-22&show_icons=true&theme=default&hide_border=true&count_private=true&line_height=24)
-  
-**🎯 Experience**  
+ 
 **Data Analyst Intern** @ Edulyt India  
 *Aug 2023* | Developed ML models for financial data analysis
 
 </div>
 
 </td>
-</tr>
-</table>
 
----
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -112,6 +93,16 @@ class Developer:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prashant-mishra-22/)
 
 </div>
+
+</td>
+
+
+</tr>
+</table>
+
+---
+
+
 
 <div align="center">
   
